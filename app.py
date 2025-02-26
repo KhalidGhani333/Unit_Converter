@@ -61,4 +61,4 @@ with col2:
     converted = convert_units(value, from_unit, to_unit, category)
     
     # Display result
-    st.text_input("Converted Value:", converted  ) 
+    st.text_input("Converted Value:", converted) 
